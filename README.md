@@ -18,10 +18,11 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
+In this challenge, I was tasked with creating a rating component that would allow users to select a rating and submit it. The component would then display a "Thank you" card with the user's rating.
+* I used Vue 3 framework to create this component.
+* [Video reference for this project](https://www.youtube.com/watch?v=iG0HZ6_vgjs)
+> This is my first time using Vue 3 and I'm still learning it. I'm sure there are better ways to do this, but this is what I came up with.
 ### The challenge
 
 Users should be able to:
